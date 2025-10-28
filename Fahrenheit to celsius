@@ -1,0 +1,3 @@
+fa=int (input('enter the temperature in farenhiete:'))
+ c=(f-32)*0.55
+ print('the conversion of farenhiete ',f,' to celcious is',c)
